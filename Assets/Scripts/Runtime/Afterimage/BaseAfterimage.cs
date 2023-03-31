@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace LR.Scene
+namespace gtm.Scene
 {
     public enum AfterimageType
     {
