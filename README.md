@@ -1,2 +1,7 @@
-# UnityDemo_Afterimage
-unity的残影效果
+# unity的残影效果
+
+## 基础残影
+
+
+
+## 帧方向残影
